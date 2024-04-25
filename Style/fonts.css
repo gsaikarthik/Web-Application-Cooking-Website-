@@ -1,0 +1,71 @@
+
+@font-face {
+    src: url(fonts/Roboto-Regular.ttf);
+    font-family:VTH_Regular;
+}
+
+@font-face {
+    src: url(fonts/Roboto-Bold.ttf);
+    font-family:VTH_Bold;
+}
+
+@font-face {
+    src: url(fonts/Roboto-Italic.ttf);
+    font-family:VTH_Italic;
+}
+
+@font-face {
+    src: url(fonts/Roboto-Thin.ttf);
+    font-family:VTH_Thin;
+}
+
+@font-face {
+    src: url(fonts/Roboto-Light.ttf);
+    font-family:VTH_Light;
+}
+
+@font-face {
+    src: url(fonts/Roboto-Medium.ttf);
+    font-family:VTH_Medium;
+}
+
+@font-face {
+    src: url(fonts/Roboto-Condensed.ttf);
+    font-family:VTH_Condensed;
+}
+
+@font-face {
+    src: url(fonts/Roboto-Black.ttf);
+    font-family:VTH_Black;
+}
+
+@font-face {
+    src: url(fonts/Roboto-ThinItalic.ttf);
+    font-family:VTH_ThinItalic;
+}
+
+@font-face {
+    src: url(fonts/Roboto-LightItalic.ttf);
+    font-family:VTH_LightItalic;
+}
+
+@font-face {
+    src: url(fonts/Roboto-MediumItalic.ttf);
+    font-family:VTH_MediumItalic;
+}
+
+@font-face {
+    src: url(fonts/EveryWeekDemoRegular.ttf);
+    font-family:VTH_Week;
+}
+
+@font-face {
+    src: url(fonts/EuphoriaScript-Regular.ttf);
+    font-family:VTH_Script;
+}
+
+@font-face {
+    font-family: VTH_Preschool;
+    src: url(fonts/AckiPreschool.ttf);
+}
+
